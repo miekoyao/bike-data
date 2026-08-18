@@ -13,7 +13,7 @@ the demo below!
 A two-minute video demoing the project can be found [here](https://drive.google.com/file/d/1A4xegE4duWqc6yf9bxhtcKd6n_MkuANR/view?usp=drive_link).
 
 ### Deployment
-The project can be accessed [here](https://gray-field-055999b0f.6.azurestaticapps.net/).
+The project can be accessed [here](https://polite-wave-03b233410.7.azurestaticapps.net/).
 
 ### Interaction Overview
 - Navigate through the visualization by scrolling, using the arrow keys, or using the navigation dots (along the right side).
